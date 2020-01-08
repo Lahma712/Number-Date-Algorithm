@@ -35,7 +35,7 @@ def NumbertoDate():
 	m=1
 	for month in year: #cycles through the year variable. 
 		substractMonth(month)
-		if day == 31 and month == "1" and (m == 7 or m == 8): #exception for July and August as they have two times 31 days. This affects the algorithm and needs an exception
+		if day == 31 and m == 8: #exception for August as it has 31 days. This affects the algorithm and needs an exception
 			print("\n" + "Date: " + str(day) + "." + str(m) + ".2019" + "\n")
 			return
     
