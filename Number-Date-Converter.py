@@ -26,7 +26,7 @@ def NumbertoDate():
 	day = int(input("Please enter a day of the year (number between 1-365): "))
 
 	if day <= 31: #If the day is <= 31 it is guaranteed to be in january so there is no point in using the algorithm
-		print("\n" + "Date: " + str(day) + ".01.2019" + "\n")
+		print("\n" + "Date: " + str(day) + ".1.2019" + "\n")
 		return
 	if day > 365: 
 		print("Error: Number exceeds 365. ")
