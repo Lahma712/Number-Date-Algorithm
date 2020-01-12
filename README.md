@@ -1,4 +1,4 @@
-# Number-Date-Converter
+# Number-Date-Algorithm
 
 This program is written in Python 3.7. It consists of 2 algorithms. The first algorithm called 'NumberToDate'
 allows the user to input a number between 1-365 and get the corresponding date of the year(DD/MM/2019). 
