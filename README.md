@@ -1,7 +1,7 @@
 # Number-Date-Algorithm
 
 This program is written in Python 3.7. It consists of 2 algorithms. You are asked "NumberToDate or DateToNumber?(1/2)".
-NumberToDate allows you to input a number between 1-365 and get the corresponding date of the year (D/M/2019). 
+NumberToDate allows you to input a number between 1-365 and get the corresponding date of the year (D.M.2019). 
 DateToNumber allows you to input a date and get the corresponding number of the day of the year (1-365).
 
 
