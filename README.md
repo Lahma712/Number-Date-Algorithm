@@ -9,11 +9,11 @@ DateToNumber allows you to input a date and get the corresponding number of the 
 
 <b>Example for input "1"</b>
 
-<em>Please enter a day of the year(number between 1-365): 60 </em>
+    Please enter a day of the year(number between 1-365): 60
 
 <b>OUTPUT</b>
 
-<em>Date : 1.3.2019 </em>
+    Date : 1.3.2019
 
 
 
@@ -23,12 +23,12 @@ DateToNumber allows you to input a date and get the corresponding number of the 
 
 <b>Example for input "2"</b>
 
-<em> Day: 1 </em>
+    Day: 1
 
-<em> Month: 3 </em>
+    Month: 3
 
 <b>OUTPUT</b>
 
-<em> Date: 1.3.2019 </em>
+    Date: 1.3.2019 
 
-<em> Number of day: 60 </em>
+    Number of day: 60
